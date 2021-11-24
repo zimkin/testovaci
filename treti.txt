@@ -1,1 +1,4 @@
 toto je napsano pres Vim
+bla bla
+444
+
