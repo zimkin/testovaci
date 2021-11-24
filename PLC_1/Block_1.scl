@@ -1,0 +1,8 @@
+﻿FUNCTION "Block_1" : Void
+{ S7_Optimized_Access := 'FALSE' }
+VERSION : 0.1
+
+BEGIN
+	"xxx" := "xxx";
+END_FUNCTION
+
