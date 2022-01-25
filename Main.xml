@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V17" />
   <DocumentInfo>
-    <Created>2022-01-24T16:52:04.4979007Z</Created>
+    <Created>2022-01-25T10:50:37.2464606Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -152,7 +152,7 @@
               <MultilingualTextItem ID="7" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>ovladani M1</Text>
                 </AttributeList>
               </MultilingualTextItem>
             </ObjectList>
