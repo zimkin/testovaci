@@ -152,7 +152,7 @@
               <MultilingualTextItem ID="7" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text>ovladani M1</Text>
+                  <Text>Zmena z GIThub</Text>
                 </AttributeList>
               </MultilingualTextItem>
             </ObjectList>
